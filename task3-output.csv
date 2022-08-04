@@ -1,0 +1,8 @@
+EmpID,LastName,FirstName,Salary,City,deptID,deptID,Department
+1,testlast,testfirst,1000,delhi,1,1,account
+2,testlast,testfirst,600,mumbai,3,3,sales
+3,testlast,testfirst,1000,delhi,1,1,account
+3,testlast,testfirst,1000,delhi,1,1,account
+1,testlast,testfirst,1000,delhi,1,1,account
+NULL,NULL,NULL,NULL,NULL,NULL,2,develop
+2,testlast,testfirst,600,mumbai,3,3,sales
